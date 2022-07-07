@@ -1,8 +1,8 @@
 .blogs-card{
   width: 80%;
-  height:400px;
+  height:600px;
   margin:30px 0px 0px 100px;
-  background-color: rgb(219, 150, 217);
+  background-color: antiquewhite;
 }
 
 .blogs-content{
@@ -13,5 +13,5 @@ padding: 50px 0px 0px 0px;
 
 h1{
   text-align: center;
-  color: rgb(127, 62, 240)
+  color: rgb(182, 109, 182)
 }
